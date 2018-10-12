@@ -1,5 +1,5 @@
 ---
-title: "加分題"
+title: "homework2"
 author: "陳立昀"
 date: "2018年10月5日"
 output: html_document
