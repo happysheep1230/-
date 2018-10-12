@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## 加分題
+## homework2
 ```{r}
 my_mat <- matrix(1:9, nrow = 3)
 my_mat[2, 3]
